@@ -1,0 +1,12 @@
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\bin\webapprazor.dll.config
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\bin\webapprazor.dll
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\bin\webapprazor.pdb
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\bin\Newtonsoft.Json.dll
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\bin\nunit.framework.dll
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\bin\Razorpay.dll
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\bin\Newtonsoft.Json.xml
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\bin\nunit.framework.pdb
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\bin\nunit.framework.xml
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\obj\Debug\webapprazor.csprojResolveAssemblyReference.cache
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\obj\Debug\webapprazor.dll
+c:\users\sharat\documents\visual studio 2013\Projects\webapprazor\webapprazor\obj\Debug\webapprazor.pdb
